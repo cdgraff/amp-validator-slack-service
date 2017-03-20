@@ -1,5 +1,5 @@
 # AMP Validator Slack Service
-This is a Python webhook service which checks your top performing articles against the [Cloudflare AMP validator API](https://blog.cloudflare.com/amp-validator-api/).
+This is a Python webhook service for Slack which checks your top performing articles against the [Cloudflare AMP validator API](https://blog.cloudflare.com/amp-validator-api/).
 
 
 ## Requirements
